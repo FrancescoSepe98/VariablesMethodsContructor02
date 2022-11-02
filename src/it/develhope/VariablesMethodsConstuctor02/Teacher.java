@@ -1,4 +1,4 @@
-package it.develope.VariablesMethodsConstuctor02;
+package it.develhope.VariablesMethodsConstuctor02;
 
 public class Teacher {
     public String teacherName;
