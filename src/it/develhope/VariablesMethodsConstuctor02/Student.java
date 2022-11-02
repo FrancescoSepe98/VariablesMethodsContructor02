@@ -1,7 +1,7 @@
 package it.develhope.VariablesMethodsConstuctor02;
 
 public class Student {
-    public String name;
+    private String name;
     public int grade;
 
     public Student(String studentName){
